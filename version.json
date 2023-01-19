@@ -1,0 +1,11 @@
+{
+	"server": {
+		"version": "0.0.1",
+		"requirements": {
+			"client": "0.0.1"
+		}
+	},
+	"client": {
+		"version": "0.0.1"
+	}
+}
